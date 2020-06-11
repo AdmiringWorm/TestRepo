@@ -56,7 +56,11 @@ labels:
     description: Improvements or additions to the documentation.
   - name: duplicate
     color: '#cfd3d7'
-    description: This issue or pull request already exists
+    description: This issue or pull request already exists.
+  - name: improvement
+    color: #a2eeef
+    description: Improvements to the code without adding any new functionality
+    oldname: enhancement
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
