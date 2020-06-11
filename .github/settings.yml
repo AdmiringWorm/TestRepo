@@ -58,6 +58,8 @@ labels:
     description: New functionality.
 
   - name: first-timers-only
+  - name: dummy
+    color: '#abcdef'
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
