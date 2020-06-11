@@ -50,7 +50,10 @@ repository:
 labels:
   - name: bug
     color: '#d73a4a'
-    description: An issue with the system :bug:.
+    description: There is a problem with the application.
+  - name: documentation
+    color: '#0075ca'
+    description: Improvements or additions to the documentation
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
