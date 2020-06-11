@@ -64,6 +64,31 @@ labels:
   - name: feature
     color: '#2f4299'
     description: New functionality
+  - name: help wanted
+    color: '#008672'
+    description: Help from the community is needed for to resolve this issue
+  - name: up for grabs
+    color: '#34e550'
+    description: The issue is of low priority, and relies on the community to provide pull requests to add functionality/fix bug
+  - name: invalid
+    color: '#e4e669'
+    description: Issue is not relevant for the application, could be problem in third party
+  - name: Platform: OSX
+    color: '#d4c5f9'
+    description: Only relevant for Mac OSX platforms
+    oldname: OSX
+  - name: Platform: Linux
+    color: '#ffe458'
+    description: Only relevant for Linux platforms
+  - name: Platform: Windows
+    color: '#70b5d1'
+    description: Only relevant for Windows platforms
+  - name: question
+    color: '#d876e3'
+    description: Issue is a question about the repository or application
+  - name: wonfix
+    color: '#ffffff'
+    description: The issue is working as intended, and will not be worked on
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
