@@ -58,7 +58,7 @@ labels:
     color: '#cfd3d7'
     description: This issue or pull request already exists.
   - name: improvement
-    color: #a2eeef
+    color: '#a2eeef'
     description: Improvements to the code without adding any new functionality
     oldname: enhancement
 
