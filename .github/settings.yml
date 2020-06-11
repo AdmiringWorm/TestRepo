@@ -73,14 +73,14 @@ labels:
   - name: invalid
     color: '#e4e669'
     description: Issue is not relevant for the application, could be problem in third party
-  - name: Platform: OSX
+  - name: 'Platform: OSX'
     color: '#d4c5f9'
     description: Only relevant for Mac OSX platforms
     oldname: OSX
-  - name: Platform: Linux
+  - name: 'Platform: Linux'
     color: '#ffe458'
     description: Only relevant for Linux platforms
-  - name: Platform: Windows
+  - name: 'Platform: Windows'
     color: '#70b5d1'
     description: Only relevant for Windows platforms
   - name: question
