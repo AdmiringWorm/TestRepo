@@ -48,12 +48,9 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: dummy
-    color: '#abcdef'
-    description: 'An issue with the system.'
   - name: bug
     color: '#d73a4a'
-    description: "An issue with the system :bug:."
+    description: An issue with the system :bug:.
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
