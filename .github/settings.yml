@@ -3,7 +3,7 @@ repository:
   description: Just a small test repository for testing different configuration files
   homepage: ''
   topics: tests,configuration,other
-  private: true
+  private: false
   has_issues: true
   has_projects: false
   has_wiki: false
