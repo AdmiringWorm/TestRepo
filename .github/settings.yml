@@ -48,6 +48,9 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
+  - name: bug
+    color: '#d73a4a'
+    description: There is a problem with the application.
   - name: documentation
     color: '#0075ca'
     description: Improvements or additions to the documentation
