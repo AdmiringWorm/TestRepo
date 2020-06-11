@@ -112,15 +112,15 @@ milestones:
 #    permission: pull
 
 # See https://developer.github.com/v3/teams/#add-or-update-team-repository for available options
-#teams:
-#  - name: core
+teams:
+  - name: pkg-admins
     # The permission to grant the team. Can be one of:
     # * `pull` - can pull, but not push to or administer this repository.
     # * `push` - can pull and push, but not administer this repository.
     # * `admin` - can pull, push and administer this repository.
-#    permission: admin
-#  - name: docs
-#    permission: push
+    permission: admin
+  - name: pkg-maintainers
+    permission: push
 
 branches:
   - name: master
