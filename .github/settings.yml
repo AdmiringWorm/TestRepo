@@ -53,7 +53,7 @@ labels:
     description: 'An issue with the system 🐛.'
   - name: bug
     color: '#d73a4a'
-    description: An issue with the system 🐛.
+    description: An issue with the system.
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
