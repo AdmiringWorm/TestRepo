@@ -2,3 +2,4 @@ repository:
   name: test-repository
   description: Just a small test repository for testing different configuration files
   homepage: ''
+  topics: tests,configuration,other
