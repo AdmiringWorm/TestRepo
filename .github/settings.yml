@@ -61,6 +61,9 @@ labels:
     color: '#a2eeef'
     description: Improvements to the code without adding any new functionality
     oldname: enhancement
+  - name: feature
+    color: '#2f4299'
+    description: New functionality
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
